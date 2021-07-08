@@ -1,3 +1,9 @@
+# React Chat App [Chat Engine.io]
+
+For testing, Go to [app](https://chat-engine-react07.netlify.app/) and you can use FunSpace group:
+### (Admin) `username: johndoe password: john123`
+### `username: johndoe2 password: john123`
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
